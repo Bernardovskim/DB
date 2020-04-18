@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  width: 100%;
+}
+
+p {
+  color: #14ffec;
+  font-family: serif;
+  font-size: 25px;
+}
+
+.one-div {
+  background-color: #323232;
+  text-align: center;
+  width: 100%;
+}
+
+.two-div {
+  background-color: #14ffec;
+}
+
+.three-div {
+  background-color: #323232;
+  text-align: center;
+}
+
+.divone-h {
+  color: #0d7377;
+  font-family: fantasy;
+  font-size: 100px;
+  margin: 0;
+  padding: 3%
+}
+
+.one-img {
+  padding: 0 7% 3% 7%;
+  width: 15%;
+}
+
+.one-h {
+  color: #212121;
+  font-family: sans-serif;
+  font-size: 50px;
+  padding: 8% 0 5% 5%;
+  width: 70%;
+}
+
+.two-h {
+  color: #212121;
+  font-family: sans-serif;
+  font-size: 50px;
+  padding: 8% 0 5% 30%;
+  width: 42%;
+}
+
+.three-h {
+  color: #212121;
+  font-family: sans-serif;
+  font-size: 50px;
+  padding: 9% 0 5% 5%;
+  width: 60%;
+}
+
+.four-h {
+  color: #212121;
+  font-family: sans-serif;
+  font-size: 50px;
+  padding: 9% 0 12% 5%;
+  width: 60%;
+}
+
+.left-img {
+  float: left;
+  padding: 3% 5%;
+  width: 20%;
+}
+
+.right-img {
+  float: right;
+  padding: 3% 5% 0 3%;
+  width: 20%
+}
+
+.divthree-h {
+  color: #0d7377;
+  font-family: fantasy;
+  font-size: 85px;
+  margin: 0;
+  padding: 3%
+}
+
+.three-img {
+  padding: 0 7% 3% 7%;
+  width:25%;
+}
